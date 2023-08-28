@@ -70,3 +70,10 @@
 // }
 // vetor[pos_verificada + 1] = num;
 // }
+
+//--------------------------------------------------------
+//Para imprimir a lista ordenada
+// foreach (int item in vetor)
+// {
+// Console.WriteLine(item);
+// }

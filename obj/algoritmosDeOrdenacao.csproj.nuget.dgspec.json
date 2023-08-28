@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lucas\\projects\\algoritmosDeOrdenacao\\algoritmosDeOrdenacao.csproj": {}
+    "C:\\Users\\lucas\\projects\\algoritmosDeOrdenacao\\algoritmosDeOrdenacao.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lucas\\projects\\algoritmosDeOrdenacao\\algoritmosDeOrdenacao.csproj": {
+    "C:\\Users\\lucas\\projects\\algoritmosDeOrdenacao\\algoritmosDeOrdenacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lucas\\projects\\algoritmosDeOrdenacao\\algoritmosDeOrdenacao.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\projects\\algoritmosDeOrdenacao\\algoritmosDeOrdenacao.csproj",
         "projectName": "algoritmosDeOrdenacao",
-        "projectPath": "c:\\Users\\lucas\\projects\\algoritmosDeOrdenacao\\algoritmosDeOrdenacao.csproj",
+        "projectPath": "C:\\Users\\lucas\\projects\\algoritmosDeOrdenacao\\algoritmosDeOrdenacao.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lucas\\projects\\algoritmosDeOrdenacao\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\projects\\algoritmosDeOrdenacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
